@@ -9,57 +9,85 @@
         android:orientation="vertical">
 
         <EditText
-            android:id="@+id/email"
+            android:id="@+id/namereg"
             style="@style/LoginSignUp1Input"
-            android:hint="Email"
-            android:inputType="text|textPersonName|textEmailAddress" />
+            android:hint="Full Name"
+            android:inputType="textPersonName|textCapSentences" />
 
         <EditText
-            android:id="@+id/password"
+            android:id="@+id/usernamereg"
+            style="@style/LoginSignUp1Input"
+            android:hint="Username"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/agereg"
+            style="@style/LoginSignUp1Input"
+            android:hint="Age"
+            android:inputType="numberDecimal" />
+
+
+        <EditText
+            android:id="@+id/emailreg"
+            style="@style/LoginSignUp1Input"
+            android:hint="Email"
+            android:inputType="textEmailAddress" />
+
+        <EditText
+            android:id="@+id/passwordreg"
             style="@style/LoginSignUp1Input"
             android:hint="Password"
             android:inputType="textPassword" />
 
+        <EditText
+            android:id="@+id/confirm_password"
+            style="@style/LoginSignUp1Input"
+            android:hint="Confirm Password"
+            android:inputType="textPassword" />
+
+        <CheckBox
+            android:id="@+id/termsCkb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="@string/terms_agree" />
+
+
+
         <Button
-            android:id="@+id/btnCreatesignin"
+            android:id="@+id/btnCreateAccount"
             style="@style/ButtonBlue"
             android:layout_width="match_parent"
-            android:layout_height="46dp"
+            android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginLeft="@dimen/activity_horizontal_margin"
             android:layout_marginTop="30dp"
             android:layout_marginRight="@dimen/activity_horizontal_margin"
-            android:onClick="onClick"
-            android:text="Login"
+            android:text="Create an account"
             android:textAllCaps="false"
             android:textColor="@android:color/white" />
 
-
         <TextView
-            android:id="@+id/noAccount"
+            android:id="@+id/haveAccountnow"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10px"
             android:gravity="center"
-            android:text="@string/noAccount"
-            android:textColor="#40579b" />
-
-        <TextView
-            android:id="@+id/forgot_password"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="10px"
-            android:gravity="center"
-            android:text="@string/ftPass"
+            android:text="@string/loginAcc"
             android:textColor="#40579b" />
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="@dimen/margin_top"
             android:layout_marginBottom="20dp"
             android:gravity="center_horizontal"
             android:orientation="vertical">
+
+
+
 
 
         </LinearLayout>

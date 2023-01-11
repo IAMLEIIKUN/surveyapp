@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Survey App</string>
     <string name="forgot_password">Forgot Password?</string>
-    <string name="sec">For a while...</string>
+    <string name="sec">For a while…</string>
     <string name="working">Working on it</string>
     <string name="password_mismatch">Password do not match</string>
     <string name="email_not_valid">Email not valid</string>
@@ -9,4 +9,54 @@
     <string name="terms_agree">By creating an account, you agree to our Terms and Conditions</string>
     <string name="check_fields">Please check all fields first</string>
     <string name="no_space">Username must not contain space</string>
+    <string name="title">MOBILE APPLICATION: Personalized Activity Recommendation for Improving Sleep Quality using Collaborative Filtering Algorithm</string>
+    <string name="subtitle">The researchers are the students of Bachelor of Science in Computer Science at Eulogio "Amang" Rodriguez Institute of Science and Technology - Nagtahan, Manila. The purpose of this survey is to gather information through getting an answer from the people that are experiencing a trouble in their sleeping quality/quantity.
+The audience for this survey questionnaire are for people who are experiencing a sleep deprivation.
+
+Your personal information and your answers will be given the utmost confidentiality and the only the researchers has access for this survey. We appreciate your time and effort for answering the following questions.</string>
+    <string name="firstSurvey">1. Are you having any trouble in falling asleep? </string>
+    <string name="secondSurvey">2. If you answered “YES” on the previous question, how many times have you experienced this?</string>
+    <string name="tSurvey">3. Based on your own experience, how would you determine a good sleep quality of one person? Click all that applies.</string>
+    <string name="fSurvey">4. Do you think that the pillow that you use affects your sleep quality?</string>
+    <string name="fiSurvey">5. What do you think are the factors that causes sleep deprivation? Click all that applies.</string>
+    <string name="siSurvey">6. Are you having any trouble finding your sleep position?</string>
+    <string name="seSurvey">7. Do you think that snoring when a person is asleep is a part of having a sleep deprivation?</string>
+    <string name="eiSurvey">8. How do you get a better night sleep?</string>
+    <string name="niSurvey">9. Based on the choices from question no. 8, have you done any of this to help you improve your sleep quality? </string>
+    <string name="tenSurvey">10. If you answered "YES" on the previous question, do you think it is helpful and effective?</string>
+    <string name="eleSurvey">11. Are you taking any medication to help you fall asleep?</string>
+    <string name="tweSurvey">12. Do you still feel tired even after getting a sleep for 7-8 hours?</string>
+    <string name="thirSurvey">13. As of now, how do you improve your sleep quantity and quality?</string>
+    <string name="ftPass">Forgot Password?</string>
+    <string name="loginAcc">Already have an account? Sign in</string>
+    <string name="noAccount">Don\'t have an account? Register now</string>
+    <string name="integ">One of our best principles should be honesty, that lives up to the standard we set.</string>
+    <string name="commit">The commitment we have on providing good service to our work and clients is unshakable.</string>
+    <string name="pass">The passion we have motivates us to do better and advance improvement</string>
+    <string name="learn">Our team is always learning something new to get better at what they do.</string>
+    <string name="team">Building our growing team comes with supportive members.</string>
+
+    <string name="sleepFirst">Do you have a job or go to school?</string>
+    <string name="sleepThird">Choose one you want most</string>
+    <string name="sleepFour">Do you have difficulty falling asleep at night?</string>
+    <string name="sleepFif">Do you wake up during the night?</string>
+    <string name="sleepSix">Are you waking up too early?</string>
+    <string name="sleepSev">Are you not feeling well-rested after a night\'s sleep?</string>
+    <string name="sleepEight">Do you have  daytime tiredness or sleepiness?</string>
+    <string name="sleepNine">Are you having irritability, depression or anxiety?</string>
+    <string name="sleepTen">Do you have difficulty in paying attention, focusing on tasks or remembering?</string>
+    <string name="sleepElev">Do you snore loudly?</string>
+    <string name="sleepTwe">Are you gasping for air during sleep?</string>
+    <string name="sleepThir">Do you wake up with a dry mouth?</string>
+    <string name="sleepFort">Do you have morning headache?</string>
+    <string name="sleepFift">Do you have excessive daytime sleepiness?</string>
+    <string name="sleepSixt">Are you having sudden loss of muscle tone?</string>
+    <string name="sleepSevt">Do you have sleep paralysis?</string>
+    <string name="sleepEightt">Are you having changes in rapid eye movement (REM) sleep?</string>
+    <string name="sleepNint">Are you having hallucinations?</string>
+    <string name="sleepTwent">Are you having sensations that begin while resting?</string>
+    <string name="sleepTone">Do you experience nighttime leg twitching?</string>
+    <string name="sleepTtwo">Do you feel relief with movements?</string>
+
+
 </resources>

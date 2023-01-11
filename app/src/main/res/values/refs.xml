@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recomm">
+        <item> You may have a warm bath or a massage before bedtime can help prepare you
+        for sleep</item>
+        <item> Avoid or limit naps</item>
+        <item>Avoid or limit caffeine and alcohol and don\'t use nicotine</item>
+        <item>Exercise regularly</item>
+        <item> Get all your worrying over with before you go to bed</item>
+        <item>stick to a regular sleep schedule every day</item>
+        <item>Eating a healthy diet but make sure you don’t eat big meals within a couple of
+        hours of bedtime.</item>
+        <item>Keep your bedroom dark and cool, and try to use it only for sleeping.</item>
+
+        <item> Lose excess weight. Even a slight weight loss might help relieve constriction of
+        your throat</item>
+        <item>Exercise regularly</item>
+        <item>Avoid alcohol and certain medicines such as tranquilizers and sleeping pills.</item>
+        <item>Sleep on your side or abdomen rather than on your back</item>
+        <item> Don\'t smoke</item>
+        <item>Discuss Medication Side Effects With Your Doctor</item>
+        <item> Wear an Oral Appliance but Oral appliances can reduce snoring and relieve
+        sleep apnea in mild cases.</item>
+        <item> Use a Humidifier</item>
+
+        <item>stick to a regular sleep schedule every day</item>
+        <item> Watch Your Carbs</item>
+        <item> Move, Walk around every 20 minutes or so to stay alert.</item>
+        <item> Seek Sunshine, Sunshine helps your skin make vitamin D, a key nutrient in
+        treating narcolepsy.</item>
+        <item>Keep cool, Cold feet may help keep you awake</item>
+        <item> Avoid caffeine after 4pm</item>
+        <item> Exercise regularly</item>
+        <item>Don\'t smoke</item>
+
+        <item>Avoid or limit alcohol, caffeine, and nicotine for at least several hours before
+        bedtime.</item>
+        <item> Exercise every day.</item>
+        <item> Stretch your legs at the beginning and end of each day.</item>
+        <item>Massage your legs regularly</item>
+        <item>Avoid daytime naps</item>
+        <item> Have your blood tested for iron levels and kidney function.</item>
+        <item>Soak your legs in warm water before bedtime.</item>
+
+    </string-array>
+</resources>
