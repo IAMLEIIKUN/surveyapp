@@ -1,5 +1,6 @@
 
 # A Simple Mobile Survey App with Algorithm and Recommendation:<br/><br/>
+<i>Internet Connection is Needed</i><br/><br/>
 1.) The user must login to their account or register if they have not already done so. When registering, users must enter their email address, password, and confirm password, as well as their age, name, and username. They must also check the Terms and Conditions box before clicking the Create Account button or they will be unable to register.<br/><br/>
 2.) Their information will be saved to a real-time database using Firebase, but the password will not be. Only email, username, password, username, and age are listed here. Every user will have their own UID. The database can only be accessed, read, and written by an admin.<br/><br/>
 3.) They will be taken to the Homepage or main activity shortly after logging in, where they will notice links or navigations for the Survey Form, Sleep Assessment Form, Logout, and About Us.<br/><br/>
